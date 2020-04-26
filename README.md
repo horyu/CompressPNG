@@ -27,4 +27,5 @@ CompressPNG.exe にフォルダ（複数可）をドラッグアンドドロッ�
   - `IMWRITE_PNG_COMPRESSION` を最大である 9 にしています。
 - 並列
   - `#pragma omp parallel for` を用いています。
+- [【OpenCV】コンピュータにopencv_objdetect220d.dllがないため、 | イメージングソリューション](https://imagingsolution.net/program/opencv/no-opencv-dll-file/)
 
