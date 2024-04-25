@@ -18,8 +18,8 @@ CompressPNG.exe にフォルダ（複数可）をドラッグアンドドロッ�
 ## 環境
 
 - Windows 10 Pro
-- Microsoft Visual Community 2019
-- OpenCV 4.3.0（コンパイルしたのではなくバイナリ）
+- Microsoft Visual Community 2022
+- OpenCV 4.9.0（Prebuild版）
 
 ## メモ
 
@@ -28,4 +28,3 @@ CompressPNG.exe にフォルダ（複数可）をドラッグアンドドロッ�
 - 並列
   - `#pragma omp parallel for` を用いています。
 - [【OpenCV】コンピュータにopencv_objdetect220d.dllがないため、 | イメージングソリューション](https://imagingsolution.net/program/opencv/no-opencv-dll-file/)
-
